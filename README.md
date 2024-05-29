@@ -1,6 +1,5 @@
 # Prueba Master
-
-_Acá va un párrafo que describa lo que es el proyecto_
+Objetivo de la prueba: Evaluar tus habilidades en Backend
 
 ## Ejercicios 🚀
 
