@@ -7,7 +7,7 @@ export class RepositoriosService {
     constructor(private httpService: HttpService) {}
     
     async getPopularRepositories() {
-        const url = 'https://api.github.com/search/repositories?q=stars:>0&sort=stars&order=desc';
+        const url = 'https://api.github.com/search/repositories?q=user:google&sort=stars&order=desc&per_page=10';
         const headers = {
             'Accept': 'application/vnd.github.v3+json',
         };

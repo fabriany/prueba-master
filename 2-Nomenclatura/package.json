@@ -1,0 +1,11 @@
+{
+  "name": "2-nomenclatura",
+  "version": "1.0.0",
+  "description": "Reemplaza los nombres de las variables con nombres más descriptivos que reflejen mejor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
