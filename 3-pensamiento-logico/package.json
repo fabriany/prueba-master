@@ -1,0 +1,12 @@
+{
+  "name": "3-pensamiento-logico",
+  "version": "1.0.0",
+  "description": "Escribe una función que tome un número entero como entrada y devuelva un array con",
+  "main": " enteros impares desde 1 hasta el número de entrada. Por ejemplo, si el",
+  "scripts": {
+    "test": "unción debería devolver [1, 3, 5, 7, 9].",
+    "start": "node app.js"
+  },
+  "author": "Fabriany Orrego",
+  "license": "ISC"
+}
