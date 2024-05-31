@@ -3,5 +3,5 @@ function crearArrayImpares(x) {
 }
 
 const x = 9; 
-const arreglo = crearArrayImpares(x);
-console.log(`los impares de 1 a ${x} son:`, arreglo);
+const arrayImpares = crearArrayImpares(x);
+console.log(`los impares de 1 a ${x} son:`, arrayImpares);
