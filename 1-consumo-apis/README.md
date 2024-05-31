@@ -7,6 +7,8 @@ Objetivo de la prueba: Evaluar tus habilidades en Backend
 Crea una aplicación Node.js que consuma la API de GitHub y muestre los 10 repositorios
 más populares del usuario "google".
 
+#Docs: http://localhost:3000/docs#/
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
