@@ -8,9 +8,9 @@ function f(x, y, z) {
 
 //Reemplaza los nombres de las variables con nombres más descriptivos que reflejen mejor su función.
 
-function senoDelProducto(sumando_x, sumando_y, factor_z) {
-    let suma_xy = sumando_x + sumando_y;
-    let producto_xyz = suma_xy * factor_z;
-    let senoDelProducto = Math.sin(producto_xyz);
+function senoDelProducto(sumandoX, sumandoY, factorZ) {
+    let sumaXY = sumandoX + sumandoY;
+    let productoXYZ = sumaXY * factorZ;
+    let senoDelProducto = Math.sin(productoXYZ);
     return senoDelProducto;
 }
